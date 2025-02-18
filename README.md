@@ -19,6 +19,9 @@ This website include frontend and backend part along with role based user auth a
 * use command php artisan migrate --seed
 * Use php artisan serve 
 
+### Site Details
+
+* Login Page : https://github.com/Shady-shaikh/EmailChecker/blob/main/storage/Screenshot%202025-02-18%20150425.png
 
 ### Executing program
 
@@ -28,9 +31,12 @@ This website include frontend and backend part along with role based user auth a
 
 ## Usage
 
-* Analyze and research COVID-related data obtained from the site.
-* Utilize filtering and visualization features for further analysis.
-* Contact the provided form in case of emergencies.
+* Register/Login
+* Plan subscription
+* See your plan details and find and verify emails (bunch email verification using csv)
+* Subscription history, invoice
+* Dynamic plans,limits
+* Role and user management using admin/superadmin
 
 
 ## Authors
